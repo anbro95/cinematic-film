@@ -843,7 +843,7 @@ td {
         margin-left: 7%;
     }
     .time-button {
-        display: none !important;
+        display: block !important;
     }
 }
 
