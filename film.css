@@ -842,6 +842,9 @@ td {
     .time-drop, .dates {
         margin-left: 7%;
     }
+    .time-button {
+        display: none !important;
+    }
 }
 
 .time-cross {
